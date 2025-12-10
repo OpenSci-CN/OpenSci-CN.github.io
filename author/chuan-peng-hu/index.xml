@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chuan-Peng Hu | Chinese Open Science Network</title>
+    <link>http://localhost:1313/author/chuan-peng-hu/</link>
+      <atom:link href="http://localhost:1313/author/chuan-peng-hu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chuan-Peng Hu</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/author/chuan-peng-hu/avatar_hu_61047c39c5632c57.jpg</url>
+      <title>Chuan-Peng Hu</title>
+      <link>http://localhost:1313/author/chuan-peng-hu/</link>
+    </image>
+    
+    <item>
+      <title>Chuan-Peng Hu</title>
+      <link>http://localhost:1313/author/chuan-peng-hu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/chuan-peng-hu/</guid>
+      <description>&lt;p&gt;Dr. Hu Chuan-Peng is a professor at the School of Psychology, Nanjing Normal University. After obtaining his Ph.D. degree at the Department of Psychology, Tsinghua University, Beijing, China, in 2017, he worked as a postdoc at the Leibniz Institute for Resilience Research (LIR), Mainz, Germany until October, 2020. His research interest focuses on self-cognition, using approaches such as meta-science, modeling, and psychological measurements. His work has been published in Advances in Methods and Practices in Psychological Science, Nature Communications, Neurosci Biobehav Rev. He serves as a member of the editorial board for Self &amp;amp; Identity, Advances in Methods and Practices in Psychological Science, Communications Psychology, and Collabra: Psychology. Also, he is a member of the executive committee of the Society for the Improvement of Psychological Science (SIPS). He initiated the Chinese Open Science Network (an online open science community).&lt;/p&gt;
+&lt;p&gt;Personal website: &lt;a href=&#34;https://huchuanpeng.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://huchuanpeng.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

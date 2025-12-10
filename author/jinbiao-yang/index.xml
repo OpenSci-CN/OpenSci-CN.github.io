@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jinbiao Yang | Chinese Open Science Network</title>
+    <link>http://localhost:1313/author/jinbiao-yang/</link>
+      <atom:link href="http://localhost:1313/author/jinbiao-yang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jinbiao Yang</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/author/jinbiao-yang/avatar_hu_98522ef7ae1212a0.jpg</url>
+      <title>Jinbiao Yang</title>
+      <link>http://localhost:1313/author/jinbiao-yang/</link>
+    </image>
+    
+    <item>
+      <title>Jinbiao Yang</title>
+      <link>http://localhost:1313/author/jinbiao-yang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/jinbiao-yang/</guid>
+      <description>&lt;p&gt;Lazy but curious&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

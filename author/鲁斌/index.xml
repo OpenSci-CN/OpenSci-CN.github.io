@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>鲁斌 | Chinese Open Science Network</title>
+    <link>http://localhost:1313/author/%E9%B2%81%E6%96%8C/</link>
+      <atom:link href="http://localhost:1313/author/%E9%B2%81%E6%96%8C/index.xml" rel="self" type="application/rss+xml" />
+    <description>鲁斌</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_c1867564a64e758d.png</url>
+      <title>鲁斌</title>
+      <link>http://localhost:1313/author/%E9%B2%81%E6%96%8C/</link>
+    </image>
+    
+    <item>
+      <title>Bin Lu (Robin)</title>
+      <link>http://localhost:1313/author/bin-lu-robin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/bin-lu-robin/</guid>
+      <description>&lt;p&gt;Aiming to take fMRI analysis from benchmark to bedside before we all need it ourselves.&lt;/p&gt;
+&lt;p&gt;Research-Gate： &lt;a href=&#34;https://www.researchgate.net/profile/Bin-Lu-10&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.researchgate.net/profile/Bin-Lu-10&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
