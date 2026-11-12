@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home | Chinese Open Science Network</title>
-    <link>http://localhost:1313/</link>
-      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://opensci-cn.github.io/</link>
+      <atom:link href="https://opensci-cn.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Home</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_c1867564a64e758d.png</url>
+      <url>https://opensci-cn.github.io/media/icon_hu_c1867564a64e758d.png</url>
       <title>Home</title>
-      <link>http://localhost:1313/</link>
+      <link>https://opensci-cn.github.io/</link>
     </image>
     
     <item>
       <title>OpenTalks #89 | AI孪生脑：模型训练、评估、应用</title>
-      <link>http://localhost:1313/event/opentalk/2025_89/</link>
+      <link>https://opensci-cn.github.io/event/opentalk/2025_89/</link>
       <pubDate>Sat, 13 Sep 2025 21:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/opentalk/2025_89/</guid>
+      <guid>https://opensci-cn.github.io/event/opentalk/2025_89/</guid>
       <description>&lt;h3&gt;分享嘉宾:&lt;/h3&gt;&lt;br&gt;
 
 
@@ -38,7 +38,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/images/opentalk/89.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://opensci-cn.github.io/images/opentalk/89.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;br&gt;
 &lt;b&gt;刘泉影&lt;/b&gt;，南方科技大学长聘副教授，博导，PI。2010年/2013年毕业于兰州大学信息学院，获学士/硕士学位。2017年于瑞士苏黎世联邦理工学院获博士学位，其后在美国加州理工学院从事博士后研究工作。2019年8月回国，在南方科技大学成立神经计算与控制实验室（NCC lab）。主要研究方向是多模态神经信号处理算法、脑网络动力学建模、神经编解码算法、神经调控优化算法等工作，致力于从人工智能、控制理论和脑科学交叉融合的视角，发展基于AI的多模态神经解码算法，构建数据驱动的AI孪生脑模型，研发智能化的闭环神经调控系统，推动“读出-写入”双向脑机接口技术的发展，为解码脑功能和干预神经疾病提供全新范式，已在Nature Methods、The Innovation等期刊，NeurIPS、ICML、ICLR等机器学习顶会上发表论文60余篇。
@@ -55,9 +55,9 @@ Further event details, including page elements such as image galleries, can be a
     
     <item>
       <title>COSN Summer Hackathon 2025开始报名啦！</title>
-      <link>http://localhost:1313/news/2025-7-summer_hackthon/</link>
+      <link>https://opensci-cn.github.io/news/2025-7-summer_hackthon/</link>
       <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/news/2025-7-summer_hackthon/</guid>
+      <guid>https://opensci-cn.github.io/news/2025-7-summer_hackthon/</guid>
       <description>&lt;p&gt;COSN Summer Hackathon又双叒来啦！！！通过2022年 ～ 2024年的三次活动，越来越多的小伙伴有机会参与了Hackathon。今年的Hackathon将以“AI + 脑科学”为主题，聚焦人工智能技术在脑科学领域的探索与应用，欢迎大家提出相关的Project（提交的具体流程之后会公布）！&lt;/p&gt;
 &lt;p&gt;“Learning by doing” 或者在实践中学习是Hackathon 的精神，本次Hackathon将为您提供：&lt;/p&gt;
 &lt;ol&gt;
@@ -195,7 +195,7 @@ background: -webkit-linear-gradient(#3C80F7, #9065FF);
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/images/news/202507_1.webp&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://opensci-cn.github.io/images/news/202507_1.webp&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 
 李济安，加州大学圣地亚哥分校神经科学博士生在读。2016年本科毕业于中国科学技术大学生命科学学院（计算机科学双学位），2019年硕士毕业于中国科学技术大学统计系。 长期从事计算神经科学、认知神经科学、人工智能等方面交叉科学研究。研究方向包括利用基于数理工具和深度学习的计算建模研究生物脑的知觉、记忆、学习和决策等功能。目前主要研究方向包括：(1)认知决策计算机制的自动发现；(2)深度学习模型和生物脑的异同；（3）反向传播算法的生物可行性；（4）决策机制的计算精神病学；(5)大语言模型的机制可解释性。目前获得卡弗里脑与认知研究所创新研究基金的资助。研究成果在Nature, Nature Human Behaviour等期刊发表。报告主题为《利用微型循环神经网络自动发现认知策略》。&lt;/p&gt;
@@ -219,7 +219,7 @@ background: -webkit-linear-gradient(#3C80F7, #9065FF);
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/images/news/202507_2.webp&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://opensci-cn.github.io/images/news/202507_2.webp&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 
 刘泉影博士，南方科技大学长聘副教授，博导，神经计算与控制实验室(NCC lab)负责人。致力于从人工智能、控制理论和脑科学交叉融合的视角，发展基于AI的多模态神经解码算法，构建数据驱动的AI孪生脑模型，研发智能化的闭环神经调控系统，推动“读出-写入”双向脑机接口技术的发展，为解码脑功能和干预神经疾病提供全新范式，以一作/通讯作者在Nature Methods、The Innovation等期刊，NeurIPS、ICML、ICLR等机器学习顶会上发表论文60余篇。报告主题为《数据驱动的AI孪生脑》。&lt;/p&gt;
@@ -243,7 +243,7 @@ background: -webkit-linear-gradient(#3C80F7, #9065FF);
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/images/news/202507_3.webp&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://opensci-cn.github.io/images/news/202507_3.webp&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 
 罗逸飞博士，香港大学数据科学研究院与心理系助理教授，博士生导师，主要研究方向为计算神经科学 &amp;amp; 计算认知科学。报告主题为《可微分3D渲染与视觉认知》。&lt;/p&gt;
@@ -267,7 +267,7 @@ background: -webkit-linear-gradient(#3C80F7, #9065FF);
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/images/news/202507_4.webp&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://opensci-cn.github.io/images/news/202507_4.webp&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 
 张洳源博士，目前担任上海交通大学心理学院和上海交通大学医学院附属精神卫生中心双聘课题组长，领导认知计算神经科学和脑影像课题组。长期致力于脑科学与类脑智能的交叉研究，综合运用心理物理学、贝叶斯概率模型、深度学习模型、神经调控以及核磁共振等研究手段，探索人脑和人工智能的神经计算机制。以第一或者通讯作者(含共同)在Nature Human Behaviour、AMPPS、PNAS、eLife、J Neurosci、PLoS Comput Biol等杂志发表认知神经科学论文。张洳源的类脑计算研究还在世界顶级机器学习会议(中国计算机A类)ICML和IJCAI发表。目前担任BMC Neuroscience、Psychoradiology、Brain-X等杂志编委，还担任eLife, Cerebral Cortex等脑科学杂志和ICML, NeurIPS, IJCAI, ICLR, CVPR等世界顶级机器学习会议审稿人和ICML2025, NeurIPS 2024,2025的领域主席(area chair)。张洳源的研究先后受到国家自然科学基金、科技部项目和上海市自然科学基金等项目的支持。张洳源先后获得上海市浦江人才计划、上海市海外高层次人才和上海市科技青年35人引领计划提名奖和世界人工智能大会青年优秀论文提名奖(排二)。报告主题为《为什么我们需要计算建模来回答科学问题？》。&lt;/p&gt;
@@ -291,7 +291,7 @@ background: -webkit-linear-gradient(#3C80F7, #9065FF);
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/images/news/202507_5.webp&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://opensci-cn.github.io/images/news/202507_5.webp&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 
 伍海燕博士，澳门大学协同创新研究院ANDlab PI（https://andlab-um.com/），加州理工学院访问学者。加入澳门大学之前，伍海燕教授于北京师范大学获得博士学位，并曾在中国科学院心理研究所担任副研究员。目前论文总被引用超2200次。近五年，以最后通讯作者在Nature Communications, eLife, Scientific Data, Neuroimage, Annals of the New York Academy of Sciences, Human Brain Mapping, Behavior Research Methods 等神经科学和心理学期刊发表论文多篇，神经科学相关专利3项。入选2023年 “脑科学与类脑智能科创新青年30人”。她的研究致力于引入跨学科技术框架，结合人工智能与脑成像、计算模型、颅内及颅外神经信号、神经调控、虚拟现实和大数据，以探索大脑中情绪与决策的交互机制。报告主题为《社会道德决策的神经与计算机制》。&lt;/p&gt;
@@ -311,25 +311,25 @@ background: -webkit-linear-gradient(#3C80F7, #9065FF);
     
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>https://opensci-cn.github.io/contact/</link>
       <pubDate>Tue, 24 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>https://opensci-cn.github.io/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>neurochat神聊2025在线学术会议将于6月14日召开!</title>
-      <link>http://localhost:1313/news/2025-6-10/</link>
+      <link>https://opensci-cn.github.io/news/2025-6-10/</link>
       <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/news/2025-6-10/</guid>
+      <guid>https://opensci-cn.github.io/news/2025-6-10/</guid>
       <description>&lt;p&gt;走到2025年，neurochat神聊来到了第6年！在今年，neurochat 神聊2025会议将继续在线下线上混合展开，坚持小而精的组织形式。今年组委会将和部分青年报告人相聚太湖湖畔的苏州！&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>OpenTalks #88 | 运用敏感性分析评估心理学纵向研究中未测量混淆因素的干扰风险</title>
-      <link>http://localhost:1313/event/opentalk/2025_88/</link>
+      <link>https://opensci-cn.github.io/event/opentalk/2025_88/</link>
       <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/opentalk/2025_88/</guid>
+      <guid>https://opensci-cn.github.io/event/opentalk/2025_88/</guid>
       <description>&lt;h3&gt;分享嘉宾:&lt;/h3&gt;&lt;br&gt;
 
 
@@ -351,7 +351,7 @@ background: -webkit-linear-gradient(#3C80F7, #9065FF);
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/images/opentalk/89.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://opensci-cn.github.io/images/opentalk/89.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;br&gt;
 &lt;b&gt;刘泉影&lt;/b&gt;，南方科技大学长聘副教授，博导，PI。2010年/2013年毕业于兰州大学信息学院，获学士/硕士学位。2017年于瑞士苏黎世联邦理工学院获博士学位，其后在美国加州理工学院从事博士后研究工作。2019年8月回国，在南方科技大学成立神经计算与控制实验室（NCC lab）。主要研究方向是多模态神经信号处理算法、脑网络动力学建模、神经编解码算法、神经调控优化算法等工作，致力于从人工智能、控制理论和脑科学交叉融合的视角，发展基于AI的多模态神经解码算法，构建数据驱动的AI孪生脑模型，研发智能化的闭环神经调控系统，推动“读出-写入”双向脑机接口技术的发展，为解码脑功能和干预神经疾病提供全新范式，已在Nature Methods、The Innovation等期刊，NeurIPS、ICML、ICLR等机器学习顶会上发表论文60余篇。
@@ -368,9 +368,9 @@ Further event details, including page elements such as image galleries, can be a
     
     <item>
       <title>志愿者招募: Psychological Science REPEAT网络</title>
-      <link>http://localhost:1313/news/2025-5-ps_repeat/</link>
+      <link>https://opensci-cn.github.io/news/2025-5-ps_repeat/</link>
       <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/news/2025-5-ps_repeat/</guid>
+      <guid>https://opensci-cn.github.io/news/2025-5-ps_repeat/</guid>
       <description>&lt;p&gt;您是否热衷于提高科学研究的可重复性？Psychological Science这一期刊正在招募志愿者加入他们的REPEAT网络，一个用来检验计算可重复性(computational reproducibility)的小组。&lt;/p&gt;
 &lt;h3&gt;背景&lt;/h3&gt;
 &lt;p style=&#34;text-indent:32.4px&#34;&gt;Psychological Science最近引入了新的政策来提高透明度和严谨性 (Hardwicke &amp; Vazire, 2024)，其中包括要求实证文章必须具备计算可重复性（这意味着报告的结果可以通过对原始数据重复原始分析来独立重现）&lt;sup&gt;[1]&lt;/sup&gt;。期刊正在建立一个志愿者网络，在文章发表前验证其计算可重复性&lt;sup&gt;[2]&lt;/sup&gt;。欢迎同行积极申请，包括研究生和早期职业研究人员。
@@ -395,9 +395,9 @@ Further event details, including page elements such as image galleries, can be a
     
     <item>
       <title>OpenTalk No.86 | The Academic Impact of Open Science</title>
-      <link>http://localhost:1313/event/opentalk/2025_86/</link>
+      <link>https://opensci-cn.github.io/event/opentalk/2025_86/</link>
       <pubDate>Thu, 22 May 2025 14:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/opentalk/2025_86/</guid>
+      <guid>https://opensci-cn.github.io/event/opentalk/2025_86/</guid>
       <description>&lt;h3&gt;分享嘉宾:&lt;/h3&gt;
 
 
@@ -419,7 +419,7 @@ Further event details, including page elements such as image galleries, can be a
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/images/opentalk/86.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://opensci-cn.github.io/images/opentalk/86.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;br&gt;
 &lt;b&gt;Thomas Klebel&lt;/b&gt; is a member of the Open and Reproducible Research Group and a Senior Researcher at Know Center. In his research, he investigates unintended consequences of current implementations of Open Research, ways of improving the reproducibility of research findings, and avenues for sustainable business models around open research infrastructure. With a focus on quantitative methods of inquiry, he is also keenly interested in causal modelling and ways of improving research practice. Thomas completed his doctoral studies in Sociology in 2024 and holds a degree in Music Performance from the University of Performing Arts Graz. You can find him on ORCID and LinkedIn.
@@ -436,41 +436,41 @@ Further event details, including page elements such as image galleries, can be a
     
     <item>
       <title>OpenTalks #87 | DeepPrep: 高效fMRI预处理平台及其在精准神经调控中的应用</title>
-      <link>http://localhost:1313/event/opentalk/2025_87/</link>
+      <link>https://opensci-cn.github.io/event/opentalk/2025_87/</link>
       <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/opentalk/2025_87/</guid>
+      <guid>https://opensci-cn.github.io/event/opentalk/2025_87/</guid>
       <description></description>
     </item>
     
     <item>
       <title>专访eLife主编：失去影响因子，中国来稿减少了80%</title>
-      <link>http://localhost:1313/news/2025-5-elife/</link>
+      <link>https://opensci-cn.github.io/news/2025-5-elife/</link>
       <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/news/2025-5-elife/</guid>
+      <guid>https://opensci-cn.github.io/news/2025-5-elife/</guid>
       <description>&lt;p&gt;&lt;b&gt;编者荐语:&lt;/b&gt;Elife作为科学出版的先行者，正在积极探索不同于当前“发表 vs 拒稿”的模式，而是公开审稿意见和质性评分对稿件进行评估。可以从elife新主编的访谈中看到这个新模式是研究者，而不是出版商，所做出的努力。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>OpenTalks #85 | 决策过程中噪声的情景依赖性</title>
-      <link>http://localhost:1313/event/opentalk/2025_85/</link>
+      <link>https://opensci-cn.github.io/event/opentalk/2025_85/</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/opentalk/2025_85/</guid>
+      <guid>https://opensci-cn.github.io/event/opentalk/2025_85/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OpenTalks #84 | 视觉学习的计算神经机制</title>
-      <link>http://localhost:1313/event/opentalk/2025_84/</link>
+      <link>https://opensci-cn.github.io/event/opentalk/2025_84/</link>
       <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/opentalk/2025_84/</guid>
+      <guid>https://opensci-cn.github.io/event/opentalk/2025_84/</guid>
       <description></description>
     </item>
     
     <item>
       <title>新刊｜钻石开放获取模式的《稳健性报告期刊》</title>
-      <link>http://localhost:1313/news/2025-4-22/</link>
+      <link>https://opensci-cn.github.io/news/2025-4-22/</link>
       <pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/news/2025-4-22/</guid>
+      <guid>https://opensci-cn.github.io/news/2025-4-22/</guid>
       <description>&lt;p&gt;本周，一本全新的钻石开放获取期刊 ——《稳健性报告期刊》（Journal of Robustness Reports，简称 JRR）正式创刊(网址：https://scipost.org/JRobustRep)。该期刊专注于发表对已发表实证研究成果的简短再分析。&lt;/p&gt;
 &lt;p&gt;WCRI 2026向全球所有学科，职业阶段和专业职级开放，欢迎研究诚信方面的各利益相关方踊跃参加，包括但不限于大学、研究机构、资助者、出版商和政府代表。第9届WCRI将提供充满活力和互动性的活动，包括突破性的研究、深刻的反思以及有影响力的政策讨论，旨在吸引学术界、从业人员和决策者的参与。&lt;/p&gt;
 &lt;p&gt;The majority of empirical research papers only report a single main analytical result, which is usually carried out by a single analysis team (often also the team responsible for the experimental design and data collection) according to a single analysis plan. However, the &amp;ldquo;multi-analyst projects&amp;rdquo; in recent years have shown that different analysis teams often adopt their own unique methods, resulting in significant differences in conclusions. In fact, there is no single optimal statistical analysis plan, and different reasonable plans may lead to different conclusions. The strong variability of conclusions indicates their vulnerability, which is highly dependent on the specific analysis path. The key issue is that without independent analyses by multiple teams, it is difficult to assess the robustness of the conclusions. We recently proposed that for empirical research with significant scientific or social significance, 2-3 short reanalysis reports completed by independent experts should be attached [1]. To verify the feasibility and cognitive value of this method, we established the &amp;ldquo;Robustness Report Journal&amp;rdquo;, dedicated to publishing reanalyses of empirical results. This article outlines the journal&amp;rsquo;s positioning, workflow, and article format of JRR. We hope that JRR can promote reanalysis to become a routine practice in the field of empirical science.&lt;/p&gt;
@@ -495,7 +495,7 @@ Further event details, including page elements such as image galleries, can be a
 
 &lt;figure  id=&#34;figure-图1&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/images/news/20241202.png&#34; alt=&#34;图1&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://opensci-cn.github.io/images/news/20241202.png&#34; alt=&#34;图1&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       图1
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -505,17 +505,17 @@ Further event details, including page elements such as image galleries, can be a
     
     <item>
       <title>OpenTalks #83 | 人脑功能网络的毕生发展参考模型</title>
-      <link>http://localhost:1313/event/opentalk/2025_83/</link>
+      <link>https://opensci-cn.github.io/event/opentalk/2025_83/</link>
       <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/opentalk/2025_83/</guid>
+      <guid>https://opensci-cn.github.io/event/opentalk/2025_83/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OpenTalks #82 | 跨文化、跨时空的人际关系概念结构</title>
-      <link>http://localhost:1313/event/opentalk/2025_82/</link>
+      <link>https://opensci-cn.github.io/event/opentalk/2025_82/</link>
       <pubDate>Thu, 27 Mar 2025 20:30:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/opentalk/2025_82/</guid>
+      <guid>https://opensci-cn.github.io/event/opentalk/2025_82/</guid>
       <description>&lt;h3&gt;分享嘉宾:&lt;/h3&gt;
 
 
@@ -537,7 +537,7 @@ Further event details, including page elements such as image galleries, can be a
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/images/opentalk/82.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://opensci-cn.github.io/images/opentalk/82.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;br&gt;
 &lt;b&gt;程溪&lt;/b&gt;，北京师范大学心理学博士研究生，本科毕业于南京师范大学心理学院。研究方向聚焦社会认知领域，目前主要开展两方面工作：1）开发简便测量和可用于文本分析的社会关系量化工具，探索社会认知结构的文化差异及其历史演变规律；2）探究幽默与心理健康的关系及其认知神经基础。
@@ -554,9 +554,9 @@ Further event details, including page elements such as image galleries, can be a
     
     <item>
       <title>会议通知 | 第九届世界研究诚信大会（WCRI）简报 #1</title>
-      <link>http://localhost:1313/news/2025-3-wcri/</link>
+      <link>https://opensci-cn.github.io/news/2025-3-wcri/</link>
       <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/news/2025-3-wcri/</guid>
+      <guid>https://opensci-cn.github.io/news/2025-3-wcri/</guid>
       <description>&lt;p&gt;第九届世界研究诚信大会（&lt;span style=&#34;color:#d23;&#34;&gt;9th World Conference on Research Integrity, WCRI&lt;/span&gt;）将于2026年5月3日至6日在加拿大温哥华的威斯汀岸酒店举行。&lt;/p&gt;
 &lt;p style=&#34;text-indent:32.4px&#34;&gt;WCRI 2026向全球所有学科，职业阶段和专业职级开放，欢迎研究诚信方面的各利益相关方踊跃参加，包括但不限于大学、研究机构、资助者、出版商和政府代表。第9届WCRI将提供充满活力和互动性的活动，包括突破性的研究、深刻的反思以及有影响力的政策讨论，旨在吸引学术界、从业人员和决策者的参与。
 &lt;p style=&#34;text-indent:32.4px&#34;&gt;赶紧将会议加入您的日程表，来加入这个充满活力的学术聚会，在这里交流想法，认识同行，共同塑造未来的世界研究诚信。
@@ -610,49 +610,49 @@ WCRI早期职业研究人员和专业人员网络&lt;/p&gt;
     
     <item>
       <title>杨卫院士及中国科学院文献情报中心团队观点文章 | 开放科学带来的三道阳光、三个转变、四重挑战</title>
-      <link>http://localhost:1313/news/2025-3-14/</link>
+      <link>https://opensci-cn.github.io/news/2025-3-14/</link>
       <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/news/2025-3-14/</guid>
+      <guid>https://opensci-cn.github.io/news/2025-3-14/</guid>
       <description>&lt;p&gt;开放科学（Open Science）作为一种新兴的科研范式，正在全球范围内掀起一场深刻的变革。中国作为全球科技强国之一，正在积极拥抱开放科学，并努力在全球开放科学治理中发挥引领作用。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>OpenTalks #81 | 阈下抑郁发展进程的影响因素</title>
-      <link>http://localhost:1313/event/opentalk/2025_81/</link>
+      <link>https://opensci-cn.github.io/event/opentalk/2025_81/</link>
       <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/opentalk/2025_81/</guid>
+      <guid>https://opensci-cn.github.io/event/opentalk/2025_81/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OpenTalks #80 | ARIADNE: 科研资源指北</title>
-      <link>http://localhost:1313/event/opentalk/2025_80/</link>
+      <link>https://opensci-cn.github.io/event/opentalk/2025_80/</link>
       <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/opentalk/2025_80/</guid>
+      <guid>https://opensci-cn.github.io/event/opentalk/2025_80/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OpenMinds 3.0 | 第12期：频率论or贝叶斯</title>
-      <link>http://localhost:1313/event/openmind/2024_3.12/</link>
+      <link>https://opensci-cn.github.io/event/openmind/2024_3.12/</link>
       <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/openmind/2024_3.12/</guid>
+      <guid>https://opensci-cn.github.io/event/openmind/2024_3.12/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OpenMinds 3.0 | 第11期：贝叶斯因子</title>
-      <link>http://localhost:1313/event/openmind/2024_3.11/</link>
+      <link>https://opensci-cn.github.io/event/openmind/2024_3.11/</link>
       <pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/openmind/2024_3.11/</guid>
+      <guid>https://opensci-cn.github.io/event/openmind/2024_3.11/</guid>
       <description></description>
     </item>
     
     <item>
       <title>翻译 | 如何让零结果的研究获得应有的关注</title>
-      <link>http://localhost:1313/event/opentransfer/2024%E9%9B%B6%E7%BB%93%E6%9E%9C/</link>
+      <link>https://opensci-cn.github.io/event/opentransfer/2024%E9%9B%B6%E7%BB%93%E6%9E%9C/</link>
       <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/opentransfer/2024%E9%9B%B6%E7%BB%93%E6%9E%9C/</guid>
+      <guid>https://opensci-cn.github.io/event/opentransfer/2024%E9%9B%B6%E7%BB%93%E6%9E%9C/</guid>
       <description>&lt;!-- &lt;label for=&#34;colorPicker&#34;&gt;选择颜色：&lt;/label&gt;  --&gt;
 &lt;!-- &lt;input type=&#34;color&#34; id=&#34;colorPicker&#34; value=&#34;#6607ff73&#34;&gt; --&gt;
 &lt;p&gt;&lt;i&gt;&lt;h5&gt;原文信息&lt;/h5&gt;Kozlov, M. (2024). So you got a null result. Will anyone publish it?. Nature 631, 728-730. &lt;a href=&#34;https://doi.org/10.1038/d41586-024-02383-9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1038/d41586-024-02383-9&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
@@ -699,7 +699,7 @@ WCRI早期职业研究人员和专业人员网络&lt;/p&gt;
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/images/opentransfer/2024%e9%9b%b6%e7%bb%93%e6%9e%9c1.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://opensci-cn.github.io/images/opentransfer/2024%e9%9b%b6%e7%bb%93%e6%9e%9c1.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 
 &lt;p style=&#34;text-indent:32.4px&#34;&gt;Nosek 说，预注册模型促使研究人员忠实于研究的初衷，但它并未解决研究人员在提交研究结果到期刊时的偏倚问题，也未能消除期刊编辑和审稿人在决定是否发表时的偏见。
@@ -725,7 +725,7 @@ WCRI早期职业研究人员和专业人员网络&lt;/p&gt;
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/images/opentransfer/2024%e9%9b%b6%e7%bb%93%e6%9e%9c2.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://opensci-cn.github.io/images/opentransfer/2024%e9%9b%b6%e7%bb%93%e6%9e%9c2.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 
 &lt;p style=&#34;text-indent:32.4px&#34;&gt;尽管这种形式（注册报告）日益受到欢迎，但研究人员表示仍存在一些问题需要解决。今年早些时候，瑞士巴塞尔大学的睡眠研究员Christine Blume发表了她的第一篇注册报告，研究光线如何影响人体生物节律，刊登在《Nature Human Behaviour》 期刊上。她表示，尽管她很喜欢在数据收集之前就能收到关于研究设计的反馈——“这让我觉得，我拥有了最佳的研究设计来回答我想解决的问题”——但她发现反馈过程可能持续数月，特别是当研究经费有时间限制时，这可能让人感到沮丧。
@@ -760,17 +760,17 @@ Further event details, including page elements such as image galleries, can be a
     
     <item>
       <title>OpenMinds 3.0 | 第10期：频率论 vs. 贝叶斯统计</title>
-      <link>http://localhost:1313/event/openmind/2024_3.10/</link>
+      <link>https://opensci-cn.github.io/event/openmind/2024_3.10/</link>
       <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/openmind/2024_3.10/</guid>
+      <guid>https://opensci-cn.github.io/event/openmind/2024_3.10/</guid>
       <description></description>
     </item>
     
     <item>
       <title>翻译校对招募 | FORRT开放学术术语表</title>
-      <link>http://localhost:1313/news/2024-10-recruittranslators/</link>
+      <link>https://opensci-cn.github.io/news/2024-10-recruittranslators/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/news/2024-10-recruittranslators/</guid>
+      <guid>https://opensci-cn.github.io/news/2024-10-recruittranslators/</guid>
       <description>&lt;p&gt;开放与可重复性研究培训框架（Framework for Open and Reproducible Research Training, FORRT）是一项教育计划，旨在通过教学改革与元科学研究，推动研究的透明性、可重复性、严谨性和伦理。FORRT 提供教育基础设施与教学资源，帮助人们更好地理解开放与可重复性科学对教学的深远影响及其带来的挑战（如课程改革、认识论不确定性、教育方法）。同时，FORRT 倡导开放并正式认可这些教学与指导材料，帮助那些因教育资源匮乏而处于不利地位的群体获得更多学习与探索的机会。&lt;/p&gt;
 &lt;p&gt;本期我们需要翻译和校对的是FORRT开放社区的开放学术术语表（Glossary of Open Scholarship Terms）。欢迎有热情、有能力的小伙伴一起加入我们，使用OpenTransfer团队开发的自动翻译工具进行翻译，并完成对翻译的人工校对工作。&lt;br&gt;
 想了解更多关于FORRT的信息，请访问其官网：https://forrt.org/&lt;br&gt;&lt;/p&gt;
@@ -780,9 +780,9 @@ Further event details, including page elements such as image galleries, can be a
     
     <item>
       <title>OpenMinds 3.0 | 第9期：样本量规划</title>
-      <link>http://localhost:1313/event/openmind/2024_3.9/</link>
+      <link>https://opensci-cn.github.io/event/openmind/2024_3.9/</link>
       <pubDate>Sun, 22 Sep 2024 20:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/openmind/2024_3.9/</guid>
+      <guid>https://opensci-cn.github.io/event/openmind/2024_3.9/</guid>
       <description>&lt;h3&gt;报告人:&lt;/h3&gt;&lt;br&gt;
 
 
@@ -804,7 +804,7 @@ Further event details, including page elements such as image galleries, can be a
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/images/openmind/3.91.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://opensci-cn.github.io/images/openmind/3.91.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;br&gt;
 &lt;b&gt;陈书园&lt;/b&gt;（中科院心理研究所）
@@ -829,7 +829,7 @@ Further event details, including page elements such as image galleries, can be a
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/images/openmind/3.92.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://opensci-cn.github.io/images/openmind/3.92.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;br&gt;
 &lt;b&gt;李淼（博士）&lt;/b&gt;Université de Lille，France
@@ -846,9 +846,9 @@ Further event details, including page elements such as image galleries, can be a
     
     <item>
       <title>翻译 | 如何编写有效的大型语言模型提示词</title>
-      <link>http://localhost:1313/event/opentransfer/2024llm/</link>
+      <link>https://opensci-cn.github.io/event/opentransfer/2024llm/</link>
       <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/opentransfer/2024llm/</guid>
+      <guid>https://opensci-cn.github.io/event/opentransfer/2024llm/</guid>
       <description>&lt;!-- &lt;label for=&#34;colorPicker&#34;&gt;选择颜色：&lt;/label&gt;  --&gt;
 &lt;!-- &lt;input type=&#34;color&#34; id=&#34;colorPicker&#34; value=&#34;#6607ff73&#34;&gt; --&gt;
 &lt;p&gt;&lt;i&gt;&lt;h5&gt;原文信息&lt;/h5&gt;Lin, Z. (2024). How to write effective prompts for large language models. Nature Human Behaviour, 8(4), 611-615. &lt;a href=&#34;https://doi.org/10.1038/s41562-024-01847-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1038/s41562-024-01847-2&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
@@ -912,7 +912,7 @@ Further event details, including page elements such as image galleries, can be a
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/images/opentransfer/2024LLM_1.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://opensci-cn.github.io/images/opentransfer/2024LLM_1.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;h2 style=&#34;
@@ -949,7 +949,7 @@ Further event details, including page elements such as image galleries, can be a
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/images/opentransfer/2024LLM_2.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://opensci-cn.github.io/images/opentransfer/2024LLM_2.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;h2 style=&#34;
@@ -1042,17 +1042,17 @@ Further event details, including page elements such as image galleries, can be a
     
     <item>
       <title>OpenMinds 3.0 | 第8期：统计检验力</title>
-      <link>http://localhost:1313/event/openmind/2024_3.8/</link>
+      <link>https://opensci-cn.github.io/event/openmind/2024_3.8/</link>
       <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/openmind/2024_3.8/</guid>
+      <guid>https://opensci-cn.github.io/event/openmind/2024_3.8/</guid>
       <description></description>
     </item>
     
     <item>
       <title>翻译 | 将信心放在置信区间的谬误</title>
-      <link>http://localhost:1313/event/opentransfer/2024%E7%BD%AE%E4%BF%A1%E5%8C%BA%E9%97%B4/</link>
+      <link>https://opensci-cn.github.io/event/opentransfer/2024%E7%BD%AE%E4%BF%A1%E5%8C%BA%E9%97%B4/</link>
       <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/opentransfer/2024%E7%BD%AE%E4%BF%A1%E5%8C%BA%E9%97%B4/</guid>
+      <guid>https://opensci-cn.github.io/event/opentransfer/2024%E7%BD%AE%E4%BF%A1%E5%8C%BA%E9%97%B4/</guid>
       <description>&lt;!-- &lt;label for=&#34;colorPicker&#34;&gt;选择颜色：&lt;/label&gt;  --&gt;
 &lt;!-- &lt;input type=&#34;color&#34; id=&#34;colorPicker&#34; value=&#34;#00000084&#34;&gt; --&gt;
 &lt;div style=&#34;border-left: 6px solid #4A90E2;
@@ -1165,7 +1165,7 @@ font-size: 24px;
 
 &lt;figure  id=&#34;figure-图1--潜水艇救援尝试图中从下至上依次展示了似然性和置信区间交互图-httplearnbayesorgredirectscishiny1html&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/images/opentransfer/2024%e7%bd%ae%e4%bf%a1%e5%8c%ba%e9%97%b41.png&#34; alt=&#34;图1  潜水艇救援尝试。图中从下至上，依次展示了似然性和置信区间。交互图： http://learnbayes.org/redirects/CIshiny1.html。&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://opensci-cn.github.io/images/opentransfer/2024%e7%bd%ae%e4%bf%a1%e5%8c%ba%e9%97%b41.png&#34; alt=&#34;图1  潜水艇救援尝试。图中从下至上，依次展示了似然性和置信区间。交互图： http://learnbayes.org/redirects/CIshiny1.html。&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       图1  潜水艇救援尝试。图中从下至上，依次展示了似然性和置信区间。交互图： &lt;a href=&#34;http://learnbayes.org/redirects/CIshiny1.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://learnbayes.org/redirects/CIshiny1.html&lt;/a&gt;。
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -1272,7 +1272,7 @@ font-style: italic;
 
 &lt;figure  id=&#34;figure-图2-左侧为两个气泡y_1和y_2可能出现的位置右侧为y_2与y_1的均值相对于y_1和y_1的图示图中阴影为各自50置信区间中真值所在的可能区域顶部图a和b为抽样分布区间中间图c和d为非参数ump区间底部图e和f为贝叶斯区间图中的a和b分别对应图1a和b中的气泡对交互图-httplearnbayesorgredirectscishiny1html&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/images/opentransfer/2024%e7%bd%ae%e4%bf%a1%e5%8c%ba%e9%97%b42.png&#34; alt=&#34;图2 左侧为两个气泡y_1和y_2可能出现的位置；右侧为y_2与y_1的均值相对于y_1和y_1的图示。图中阴影为各自50%置信区间中真值所在的可能区域。顶部图（A和B）为抽样分布区间；中间图（C和D）为非参数/UMP区间；底部图（E和F）为贝叶斯区间。图中的‘a’和‘b’分别对应图1A和B中的气泡对。交互图： http://learnbayes.org/redirects/CIshiny1.html。&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://opensci-cn.github.io/images/opentransfer/2024%e7%bd%ae%e4%bf%a1%e5%8c%ba%e9%97%b42.png&#34; alt=&#34;图2 左侧为两个气泡y_1和y_2可能出现的位置；右侧为y_2与y_1的均值相对于y_1和y_1的图示。图中阴影为各自50%置信区间中真值所在的可能区域。顶部图（A和B）为抽样分布区间；中间图（C和D）为非参数/UMP区间；底部图（E和F）为贝叶斯区间。图中的‘a’和‘b’分别对应图1A和B中的气泡对。交互图： http://learnbayes.org/redirects/CIshiny1.html。&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       图2 左侧为两个气泡y_1和y_2可能出现的位置；右侧为y_2与y_1的均值相对于y_1和y_1的图示。图中阴影为各自50%置信区间中真值所在的可能区域。顶部图（A和B）为抽样分布区间；中间图（C和D）为非参数/UMP区间；底部图（E和F）为贝叶斯区间。图中的‘a’和‘b’分别对应图1A和B中的气泡对。交互图： &lt;a href=&#34;http://learnbayes.org/redirects/CIshiny1.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://learnbayes.org/redirects/CIshiny1.html&lt;/a&gt;。
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -1311,7 +1311,7 @@ $$
 
 &lt;figure  id=&#34;figure-图3-四种置信程序的ci宽度与舱口位置估计不确定性之间的关系sd抽样分布程序np非参数程序umpump程序b贝叶斯程序当似然性宽度超过5时np和ump程序的表现会出现重叠交互图-httplearnbayesorgredirectscishiny1html&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/images/opentransfer/2024%e7%bd%ae%e4%bf%a1%e5%8c%ba%e9%97%b43.png&#34; alt=&#34;图3 四种置信程序的CI宽度与舱口位置估计不确定性之间的关系。SD：抽样分布程序；NP：非参数程序；UMP：UMP程序；B：贝叶斯程序。当似然性宽度超过5时，NP和UMP程序的表现会出现重叠。交互图： http://learnbayes.org/redirects/CIshiny1.html。&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://opensci-cn.github.io/images/opentransfer/2024%e7%bd%ae%e4%bf%a1%e5%8c%ba%e9%97%b43.png&#34; alt=&#34;图3 四种置信程序的CI宽度与舱口位置估计不确定性之间的关系。SD：抽样分布程序；NP：非参数程序；UMP：UMP程序；B：贝叶斯程序。当似然性宽度超过5时，NP和UMP程序的表现会出现重叠。交互图： http://learnbayes.org/redirects/CIshiny1.html。&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       图3 四种置信程序的CI宽度与舱口位置估计不确定性之间的关系。SD：抽样分布程序；NP：非参数程序；UMP：UMP程序；B：贝叶斯程序。当似然性宽度超过5时，NP和UMP程序的表现会出现重叠。交互图： &lt;a href=&#34;http://learnbayes.org/redirects/CIshiny1.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://learnbayes.org/redirects/CIshiny1.html&lt;/a&gt;。
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -1347,7 +1347,7 @@ font-size: 24px;
 
 &lt;figure  id=&#34;figure-图4-各置信程序中包含错误值的概率其中t微不足道的程序sd抽样分布程序np非参数程序umpump程序b贝叶斯程序抽样分布程序的线虚线位于贝叶斯程序和ump程序之间交互图-httplearnbayesorgredirectscishiny1html-&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/images/opentransfer/2024%e7%bd%ae%e4%bf%a1%e5%8c%ba%e9%97%b44.png&#34; alt=&#34;图4 各置信程序中包含错误值的概率。其中，T：微不足道的程序；SD：抽样分布程序；NP：非参数程序；UMP：UMP程序；B：贝叶斯程序。抽样分布程序的线（虚线）位于贝叶斯程序和UMP程序之间。交互图 http://learnbayes.org/redirects/CIshiny1.html 。&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://opensci-cn.github.io/images/opentransfer/2024%e7%bd%ae%e4%bf%a1%e5%8c%ba%e9%97%b44.png&#34; alt=&#34;图4 各置信程序中包含错误值的概率。其中，T：微不足道的程序；SD：抽样分布程序；NP：非参数程序；UMP：UMP程序；B：贝叶斯程序。抽样分布程序的线（虚线）位于贝叶斯程序和UMP程序之间。交互图 http://learnbayes.org/redirects/CIshiny1.html 。&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       图4 各置信程序中包含错误值的概率。其中，T：微不足道的程序；SD：抽样分布程序；NP：非参数程序；UMP：UMP程序；B：贝叶斯程序。抽样分布程序的线（虚线）位于贝叶斯程序和UMP程序之间。交互图 &lt;a href=&#34;http://learnbayes.org/redirects/CIshiny1.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://learnbayes.org/redirects/CIshiny1.html&lt;/a&gt; 。
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -1375,7 +1375,7 @@ font-size: 24px;
 
 &lt;figure  id=&#34;figure-图5-形成贝叶斯可信区间先验信息顶部图与来自数据的似然性信息中部相结合共同构成了后验分布底部在似然性图中阴影区域标示了每个气泡周围5米范围内的可能位置深色阴影区域则为它们重叠的地方暗示了舱口theta的潜在位置在后验图中中央50区域即后验的阴影区域展示了一个可能的50可信区间也就是中央可信区间交互图-httplearnbayesorgredirectscishiny1html&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/images/opentransfer/2024%e7%bd%ae%e4%bf%a1%e5%8c%ba%e9%97%b45.png&#34; alt=&#34;图5 形成贝叶斯可信区间。先验信息（顶部图）与来自数据的似然性信息（中部）相结合，共同构成了后验分布（底部）。在似然性图中，阴影区域标示了每个气泡周围5米范围内的可能位置；深色阴影区域则为它们重叠的地方，暗示了舱口\theta的潜在位置。在后验图中，中央50%区域（即后验的阴影区域）展示了一个可能的50%可信区间，也就是中央可信区间。交互图 http://learnbayes.org/redirects/CIshiny1.html。&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://opensci-cn.github.io/images/opentransfer/2024%e7%bd%ae%e4%bf%a1%e5%8c%ba%e9%97%b45.png&#34; alt=&#34;图5 形成贝叶斯可信区间。先验信息（顶部图）与来自数据的似然性信息（中部）相结合，共同构成了后验分布（底部）。在似然性图中，阴影区域标示了每个气泡周围5米范围内的可能位置；深色阴影区域则为它们重叠的地方，暗示了舱口\theta的潜在位置。在后验图中，中央50%区域（即后验的阴影区域）展示了一个可能的50%可信区间，也就是中央可信区间。交互图 http://learnbayes.org/redirects/CIshiny1.html。&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       图5 形成贝叶斯可信区间。先验信息（顶部图）与来自数据的似然性信息（中部）相结合，共同构成了后验分布（底部）。在似然性图中，阴影区域标示了每个气泡周围5米范围内的可能位置；深色阴影区域则为它们重叠的地方，暗示了舱口\theta的潜在位置。在后验图中，中央50%区域（即后验的阴影区域）展示了一个可能的50%可信区间，也就是中央可信区间。交互图 &lt;a href=&#34;http://learnbayes.org/redirects/CIshiny1.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://learnbayes.org/redirects/CIshiny1.html&lt;/a&gt;。
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -1421,7 +1421,7 @@ font-size: 24px;
 
 &lt;figure  id=&#34;figure-图6-通过倒置显著性检验的方式构建置信区间a部分展示了两个非中心f分布真实-omega2-1蓝色实线和真实-omega2-2灰色虚线当-f2-27-5时这些检验的上尾p值分别为-16-和-42b部分展示了两个非中心f分布真实-omega2-36红色实线和真实-omega2-2灰色虚线当-f2-27-5-时这些检验的下尾p值分别为-16-和-58&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/images/opentransfer/2024%e7%bd%ae%e4%bf%a1%e5%8c%ba%e9%97%b46.png&#34; alt=&#34;图6 通过倒置显著性检验的方式构建置信区间。A部分：展示了两个非中心F分布，真实 $\omega^2$= .1（蓝色实线）和真实 $\omega^2$= .2（灰色虚线）。当 F（2, 27）= 5时，这些检验的上尾p值分别为 .16 和 .42。B部分：展示了两个非中心F分布，真实 $\omega^2$= .36（红色实线）和真实 $\omega^2$= .2（灰色虚线）。当 F（2, 27）= 5 时，这些检验的下尾p值分别为 .16 和 .58。&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://opensci-cn.github.io/images/opentransfer/2024%e7%bd%ae%e4%bf%a1%e5%8c%ba%e9%97%b46.png&#34; alt=&#34;图6 通过倒置显著性检验的方式构建置信区间。A部分：展示了两个非中心F分布，真实 $\omega^2$= .1（蓝色实线）和真实 $\omega^2$= .2（灰色虚线）。当 F（2, 27）= 5时，这些检验的上尾p值分别为 .16 和 .42。B部分：展示了两个非中心F分布，真实 $\omega^2$= .36（红色实线）和真实 $\omega^2$= .2（灰色虚线）。当 F（2, 27）= 5 时，这些检验的下尾p值分别为 .16 和 .58。&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       图6 通过倒置显著性检验的方式构建置信区间。A部分：展示了两个非中心F分布，真实 $\omega^2$= .1（蓝色实线）和真实 $\omega^2$= .2（灰色虚线）。当 F（2, 27）= 5时，这些检验的上尾p值分别为 .16 和 .42。B部分：展示了两个非中心F分布，真实 $\omega^2$= .36（红色实线）和真实 $\omega^2$= .2（灰色虚线）。当 F（2, 27）= 5 时，这些检验的下尾p值分别为 .16 和 .58。
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -1454,7 +1454,7 @@ font-size: 24px;
 
 &lt;figure  id=&#34;figure-图7-四种假设实验结果的似然性置信区间和贝叶斯可信区间最高后验密度或hpd区间在每张图中顶部区间是steiger2004对-的置信区间底部区间则是贝叶斯hpd区间更多细节见正文&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/images/opentransfer/2024%e7%bd%ae%e4%bf%a1%e5%8c%ba%e9%97%b47.png&#34; alt=&#34;图7 四种假设实验结果的似然性、置信区间和贝叶斯可信区间（最高后验密度，或HPD，区间）。在每张图中，顶部区间是Steiger（2004）对 的置信区间；底部区间则是贝叶斯HPD区间。更多细节见正文。&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://opensci-cn.github.io/images/opentransfer/2024%e7%bd%ae%e4%bf%a1%e5%8c%ba%e9%97%b47.png&#34; alt=&#34;图7 四种假设实验结果的似然性、置信区间和贝叶斯可信区间（最高后验密度，或HPD，区间）。在每张图中，顶部区间是Steiger（2004）对 的置信区间；底部区间则是贝叶斯HPD区间。更多细节见正文。&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       图7 四种假设实验结果的似然性、置信区间和贝叶斯可信区间（最高后验密度，或HPD，区间）。在每张图中，顶部区间是Steiger（2004）对 的置信区间；底部区间则是贝叶斯HPD区间。更多细节见正文。
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -1536,33 +1536,33 @@ Further event details, including page elements such as image galleries, can be a
     
     <item>
       <title>About COSN</title>
-      <link>http://localhost:1313/about/cosn/</link>
+      <link>https://opensci-cn.github.io/about/cosn/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/cosn/</guid>
+      <guid>https://opensci-cn.github.io/about/cosn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Committee Duty</title>
-      <link>http://localhost:1313/about/duty/</link>
+      <link>https://opensci-cn.github.io/about/duty/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/duty/</guid>
+      <guid>https://opensci-cn.github.io/about/duty/</guid>
       <description></description>
     </item>
     
     <item>
       <title>People</title>
-      <link>http://localhost:1313/about/people/</link>
+      <link>https://opensci-cn.github.io/about/people/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/people/</guid>
+      <guid>https://opensci-cn.github.io/about/people/</guid>
       <description></description>
     </item>
     
     <item>
       <title>翻译 | 建立大团队的科学</title>
-      <link>http://localhost:1313/event/opentransfer/2022%E5%A4%A7%E5%9B%A2%E9%98%9F/</link>
+      <link>https://opensci-cn.github.io/event/opentransfer/2022%E5%A4%A7%E5%9B%A2%E9%98%9F/</link>
       <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/opentransfer/2022%E5%A4%A7%E5%9B%A2%E9%98%9F/</guid>
+      <guid>https://opensci-cn.github.io/event/opentransfer/2022%E5%A4%A7%E5%9B%A2%E9%98%9F/</guid>
       <description>&lt;!-- &lt;label for=&#34;colorPicker&#34;&gt;选择颜色：&lt;/label&gt;  --&gt;
 &lt;!-- &lt;input type=&#34;color&#34; id=&#34;colorPicker&#34; value=&#34;#00000084&#34;&gt; --&gt;
 &lt;div style=&#34;border-left: 6px solid #4A90E2;
@@ -1635,7 +1635,7 @@ font-size: 24px;
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/images/opentransfer/2022%e5%a4%a7%e5%9b%a2%e9%98%9f1.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://opensci-cn.github.io/images/opentransfer/2022%e5%a4%a7%e5%9b%a2%e9%98%9f1.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 
 &lt;!-- &lt;style&gt;
@@ -1784,9 +1784,9 @@ Further event details, including page elements such as image galleries, can be a
     
     <item>
       <title>OpenMinds 2.0 | 第3期：可重复性危机背后的理论问题</title>
-      <link>http://localhost:1313/event/openmind/2022_2.3/</link>
+      <link>https://opensci-cn.github.io/event/openmind/2022_2.3/</link>
       <pubDate>Sun, 09 Jan 2022 20:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/openmind/2022_2.3/</guid>
+      <guid>https://opensci-cn.github.io/event/openmind/2022_2.3/</guid>
       <description>&lt;h3&gt;报告人:&lt;/h3&gt;&lt;br&gt;
 
 
@@ -1808,7 +1808,7 @@ Further event details, including page elements such as image galleries, can be a
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/images/openmind/3.91.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://opensci-cn.github.io/images/openmind/3.91.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;br&gt;
 &lt;b&gt;王海侠&lt;/b&gt;（暨南大学）
@@ -1833,7 +1833,7 @@ Further event details, including page elements such as image galleries, can be a
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/images/openmind/3.92.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://opensci-cn.github.io/images/openmind/3.92.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;br&gt;
 &lt;b&gt;陈妍秀&lt;/b&gt;（中科院心理所）
@@ -1850,9 +1850,9 @@ Further event details, including page elements such as image galleries, can be a
     
     <item>
       <title>翻译 | 信号检测论的贝叶斯估计 (四)</title>
-      <link>http://localhost:1313/event/opentransfer/2021%E8%B4%9D%E5%8F%B6%E6%96%AF4/</link>
+      <link>https://opensci-cn.github.io/event/opentransfer/2021%E8%B4%9D%E5%8F%B6%E6%96%AF4/</link>
       <pubDate>Sun, 14 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/opentransfer/2021%E8%B4%9D%E5%8F%B6%E6%96%AF4/</guid>
+      <guid>https://opensci-cn.github.io/event/opentransfer/2021%E8%B4%9D%E5%8F%B6%E6%96%AF4/</guid>
       <description>&lt;p&gt;&lt;i&gt;&lt;b&gt;原标题：&lt;/b&gt;Bayesian Estimation of Signal Detection Models, Part 4&lt;br&gt;
 &lt;b&gt;原文地址：&lt;/b&gt;&lt;a href=&#34;https://vuorre.netlify.app/post/2017/10/12/bayesian-estimation-of-signal-detection-theory-models-part-4/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://vuorre.netlify.app/post/2017/10/12/bayesian-estimation-of-signal-detection-theory-models-part-4/&lt;/a&gt;&lt;br&gt;
 &lt;b&gt;原作者：&lt;/b&gt;Matti. Vuorre&lt;br&gt;
@@ -1990,7 +1990,7 @@ mcmc_areas(samples, point_est = &#34;mean&#34;, prob = .8)
 
 &lt;figure  id=&#34;figure-图1uvsdt模型中群体水平效应的后验分布的密度图不同的参数标注在y轴上而分布值在x轴上表示垂直线为后验均值阴影区域为80可信区间&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/images/opentransfer/2021%e8%b4%9d%e5%8f%b6%e6%96%af4_1.png&#34; alt=&#34;图1:UVSDT模型中群体水平效应的后验分布的密度图。不同的参数标注在y轴上，而分布值在x轴上表示。垂直线为后验均值，阴影区域为80%可信区间。&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://opensci-cn.github.io/images/opentransfer/2021%e8%b4%9d%e5%8f%b6%e6%96%af4_1.png&#34; alt=&#34;图1:UVSDT模型中群体水平效应的后验分布的密度图。不同的参数标注在y轴上，而分布值在x轴上表示。垂直线为后验均值，阴影区域为80%可信区间。&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       图1:UVSDT模型中群体水平效应的后验分布的密度图。不同的参数标注在y轴上，而分布值在x轴上表示。垂直线为后验均值，阴影区域为80%可信区间。
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -2021,7 +2021,7 @@ mcmc_areas(samples_h, point_est = &#34;mean&#34;, prob = .8)
 
 &lt;figure  id=&#34;figure-图2uvsdt模型参数的标准偏差和相关参数的密度图带有-sd_id__的参数是-id间的标准差带有-cor_id__的参数是-id间的相关性&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/images/opentransfer/2021%e8%b4%9d%e5%8f%b6%e6%96%af4_2.png&#34; alt=&#34;图2：UVSDT模型参数的标准偏差和相关参数的密度图。带有“ sd_id__”的参数是-id间的标准差，带有“ cor_id__”的参数是-id间的相关性。&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://opensci-cn.github.io/images/opentransfer/2021%e8%b4%9d%e5%8f%b6%e6%96%af4_2.png&#34; alt=&#34;图2：UVSDT模型参数的标准偏差和相关参数的密度图。带有“ sd_id__”的参数是-id间的标准差，带有“ cor_id__”的参数是-id间的相关性。&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       图2：UVSDT模型参数的标准偏差和相关参数的密度图。带有“ sd_id__”的参数是-id间的标准差，带有“ cor_id__”的参数是-id间的相关性。
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -2047,7 +2047,7 @@ mcmc_areas(samples_h, point_est = &#34;mean&#34;, prob = .8)
 
 &lt;figure  id=&#34;figure-图3个体差异标准差左和辨别力指数d右后验分布的脊线图被试在y轴上的顺序是相同的以此更好地展现两变量间的关系&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/images/opentransfer/2021%e8%b4%9d%e5%8f%b6%e6%96%af4_3.png&#34; alt=&#34;图3:个体差异标准差(左)和辨别力指数d’(右)后验分布的脊线图。被试在y轴上的顺序是相同的，以此更好地展现两变量间的关系。&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://opensci-cn.github.io/images/opentransfer/2021%e8%b4%9d%e5%8f%b6%e6%96%af4_3.png&#34; alt=&#34;图3:个体差异标准差(左)和辨别力指数d’(右)后验分布的脊线图。被试在y轴上的顺序是相同的，以此更好地展现两变量间的关系。&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       图3:个体差异标准差(左)和辨别力指数d’(右)后验分布的脊线图。被试在y轴上的顺序是相同的，以此更好地展现两变量间的关系。
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -2073,7 +2073,7 @@ mcmc_areas(samples_h, point_est = &#34;mean&#34;, prob = .8)
 
 &lt;figure  id=&#34;figure-图4个体特异性的辨别力指标和信号分布标准差的后验均值散点图&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/images/opentransfer/2021%e8%b4%9d%e5%8f%b6%e6%96%af4_4.png&#34; alt=&#34;图4:个体特异性的辨别力指标和信号分布标准差的后验均值散点图。&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://opensci-cn.github.io/images/opentransfer/2021%e8%b4%9d%e5%8f%b6%e6%96%af4_4.png&#34; alt=&#34;图4:个体特异性的辨别力指标和信号分布标准差的后验均值散点图。&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       图4:个体特异性的辨别力指标和信号分布标准差的后验均值散点图。
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -2108,9 +2108,9 @@ Further event details, including page elements such as image galleries, can be a
     
     <item>
       <title>翻译 | 信号检测论的贝叶斯估计 (三)</title>
-      <link>http://localhost:1313/event/opentransfer/2021%E8%B4%9D%E5%8F%B6%E6%96%AF3/</link>
+      <link>https://opensci-cn.github.io/event/opentransfer/2021%E8%B4%9D%E5%8F%B6%E6%96%AF3/</link>
       <pubDate>Sat, 30 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/opentransfer/2021%E8%B4%9D%E5%8F%B6%E6%96%AF3/</guid>
+      <guid>https://opensci-cn.github.io/event/opentransfer/2021%E8%B4%9D%E5%8F%B6%E6%96%AF3/</guid>
       <description>&lt;p&gt;&lt;i&gt;&lt;b&gt;原标题：&lt;/b&gt;Bayesian Estimation of Signal Detection Models, Part 3&lt;br&gt;
 &lt;b&gt;原文地址：&lt;/b&gt;&lt;a href=&#34;https://vuorre.netlify.app/post/2017/10/12/bayesian-estimation-of-signal-detection-theory-models-part-3/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://vuorre.netlify.app/post/2017/10/12/bayesian-estimation-of-signal-detection-theory-models-part-3/&lt;/a&gt;&lt;br&gt;
 &lt;b&gt;原作者：&lt;/b&gt;Matti. Vuorre&lt;br&gt;
@@ -2258,7 +2258,7 @@ Link function: Probit.
 
 &lt;figure  id=&#34;figure-图1通过参数后验均值可视化的等方差高斯信号检测模型这两个分布一个是噪音分布虚线一个是信号分布实线竖直的点线是反应标准d是两个分布的峰值距离&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/images/opentransfer/2021%e8%b4%9d%e5%8f%b6%e6%96%af3_1.png&#34; alt=&#34;图1:通过参数后验均值可视化的等方差高斯信号检测模型。这两个分布一个是噪音分布（虚线），一个是信号分布（实线）。竖直的点线是反应标准，d&amp;#39;是两个分布的峰值距离。&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://opensci-cn.github.io/images/opentransfer/2021%e8%b4%9d%e5%8f%b6%e6%96%af3_1.png&#34; alt=&#34;图1:通过参数后验均值可视化的等方差高斯信号检测模型。这两个分布一个是噪音分布（虚线），一个是信号分布（实线）。竖直的点线是反应标准，d&amp;#39;是两个分布的峰值距离。&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       图1:通过参数后验均值可视化的等方差高斯信号检测模型。这两个分布一个是噪音分布（虚线），一个是信号分布（实线）。竖直的点线是反应标准，d&amp;rsquo;是两个分布的峰值距离。
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -2341,7 +2341,7 @@ summary(fit2)
 
 &lt;figure  id=&#34;figure-图2拟合一个被试数据获得的两个uvsdt参数d和信号分布的标准偏差的近似联合后验概率密度浅黄色表示较高的后验密度红点表示从spss的序数回归模块获得的最大似然估计&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/images/opentransfer/2021%e8%b4%9d%e5%8f%b6%e6%96%af3_2.png&#34; alt=&#34;图2：拟合一个被试数据获得的两个UVSDT参数（d&amp;#39;和信号分布的标准偏差）的（近似）联合后验（概率）密度。浅黄色表示较高的后验密度。红点表示从SPSS的序数回归模块获得的最大似然估计。&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://opensci-cn.github.io/images/opentransfer/2021%e8%b4%9d%e5%8f%b6%e6%96%af3_2.png&#34; alt=&#34;图2：拟合一个被试数据获得的两个UVSDT参数（d&amp;#39;和信号分布的标准偏差）的（近似）联合后验（概率）密度。浅黄色表示较高的后验密度。红点表示从SPSS的序数回归模块获得的最大似然估计。&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       图2：拟合一个被试数据获得的两个UVSDT参数（d&amp;rsquo;和信号分布的标准偏差）的（近似）联合后验（概率）密度。浅黄色表示较高的后验密度。红点表示从SPSS的序数回归模块获得的最大似然估计。
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -2396,7 +2396,7 @@ Link function: Probit.
 
 &lt;figure  id=&#34;figure-图3参数后验均值可视化的不等方差高斯信号检测论模型这两个分布是噪声分布虚线和信号分布实线竖直点线是反应标准d是两个分布的峰之间的比例距离&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/images/opentransfer/2021%e8%b4%9d%e5%8f%b6%e6%96%af3_3.png&#34; alt=&#34;图3：参数后验均值可视化的不等方差高斯信号检测论模型。这两个分布是噪声分布（虚线）和信号分布（实线）。竖直点线是反应标准。d&amp;#39;是两个分布的峰之间的比例距离。&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://opensci-cn.github.io/images/opentransfer/2021%e8%b4%9d%e5%8f%b6%e6%96%af3_3.png&#34; alt=&#34;图3：参数后验均值可视化的不等方差高斯信号检测论模型。这两个分布是噪声分布（虚线）和信号分布（实线）。竖直点线是反应标准。d&amp;#39;是两个分布的峰之间的比例距离。&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       图3：参数后验均值可视化的不等方差高斯信号检测论模型。这两个分布是噪声分布（虚线）和信号分布（实线）。竖直点线是反应标准。d&amp;rsquo;是两个分布的峰之间的比例距离。
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -2439,7 +2439,7 @@ theme(aspect.ratio = 1)
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/images/opentransfer/2021%e8%b4%9d%e5%8f%b6%e6%96%af3_4.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://opensci-cn.github.io/images/opentransfer/2021%e8%b4%9d%e5%8f%b6%e6%96%af3_4.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;br&gt;
 感谢阅读。
@@ -2465,9 +2465,9 @@ Further event details, including page elements such as image galleries, can be a
     
     <item>
       <title>翻译 | 信号检测论的贝叶斯估计 (二)</title>
-      <link>http://localhost:1313/event/opentransfer/2021%E8%B4%9D%E5%8F%B6%E6%96%AF2/</link>
+      <link>https://opensci-cn.github.io/event/opentransfer/2021%E8%B4%9D%E5%8F%B6%E6%96%AF2/</link>
       <pubDate>Sat, 23 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/opentransfer/2021%E8%B4%9D%E5%8F%B6%E6%96%AF2/</guid>
+      <guid>https://opensci-cn.github.io/event/opentransfer/2021%E8%B4%9D%E5%8F%B6%E6%96%AF2/</guid>
       <description>&lt;p&gt;&lt;i&gt;&lt;b&gt;原标题：&lt;/b&gt;Bayesian Estimation of Signal Detection Models, Part 2&lt;br&gt;
 &lt;b&gt;原文地址：&lt;/b&gt;&lt;a href=&#34;https://vuorre.netlify.app/post/2017/10/12/bayesian-estimation-of-signal-detection-theory-models-part-2/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://vuorre.netlify.app/post/2017/10/12/bayesian-estimation-of-signal-detection-theory-models-part-2/&lt;/a&gt;&lt;br&gt;
 &lt;b&gt;原作者：&lt;/b&gt;Matti. Vuorre&lt;br&gt;
@@ -2512,7 +2512,7 @@ confcontr
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/images/opentransfer/2021%e8%b4%9d%e5%8f%b6%e6%96%af2_1.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://opensci-cn.github.io/images/opentransfer/2021%e8%b4%9d%e5%8f%b6%e6%96%af2_1.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;br&gt;
 &lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;
@@ -2582,7 +2582,7 @@ sdt &lt;- sdt %&gt;%
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/images/opentransfer/2021%e8%b4%9d%e5%8f%b6%e6%96%af2_2.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://opensci-cn.github.io/images/opentransfer/2021%e8%b4%9d%e5%8f%b6%e6%96%af2_2.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
  --&gt;
 因此我们可以计算这两个参数的样本均值和标准差。下面给出其中一种方式：
@@ -2614,7 +2614,7 @@ sdt_sum
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/images/opentransfer/2021%e8%b4%9d%e5%8f%b6%e6%96%af2_3.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://opensci-cn.github.io/images/opentransfer/2021%e8%b4%9d%e5%8f%b6%e6%96%af2_3.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 
 &lt;p style=&#34;text-indent:32.4px&#34;&gt;样本均值（mu）是对群体均值的估计，样本标准差（sd）除以是对样本分布标准差的估计，也就是标准误差（se）。由于抽样分布的标准差是未知的，而且只能通过数据进行估计，因此，研究者几乎总是用t分布来代替高斯分布来获得p值和置信区间（也就是说，我们进行t检验，而不是z检验）。
@@ -2705,7 +2705,7 @@ summary(fitglmm)
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/images/opentransfer/2021%e8%b4%9d%e5%8f%b6%e6%96%af2_5.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://opensci-cn.github.io/images/opentransfer/2021%e8%b4%9d%e5%8f%b6%e6%96%af2_5.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 
 &lt;p style=&#34;text-indent:32.4px&#34;&gt;这些均值可以通过颜色密度图展示出来（如图1左侧的图）。但是，GLMM也提供了对总体水平参数（协）方差的估计。注意，我们也计算了提供这些信息的样本标准差，但我们没有对这些点估计的不确定性进行估计。另一方面，GLMM提供了这些参数的后验分布。
@@ -2732,7 +2732,7 @@ summary(fitglmm)
 
 &lt;figure  id=&#34;figure-图1左图平均d和标准c的近似联合后验密度图颜色越浅代表更高的后验概率右图d和标准c总体水平的标准差的近似联合后验密度图两个图的红色点均代表手动计算的样本统计值&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/images/opentransfer/2021%e8%b4%9d%e5%8f%b6%e6%96%af2_6.jpg&#34; alt=&#34;图1：左图：平均d’和标准（c）的（近似）联合后验密度图。颜色越浅代表更高的后验概率。右图：d’和标准（c）总体水平的标准差的（近似）联合后验密度图。两个图的红色点均代表手动计算的样本统计值。&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://opensci-cn.github.io/images/opentransfer/2021%e8%b4%9d%e5%8f%b6%e6%96%af2_6.jpg&#34; alt=&#34;图1：左图：平均d’和标准（c）的（近似）联合后验密度图。颜色越浅代表更高的后验概率。右图：d’和标准（c）总体水平的标准差的（近似）联合后验密度图。两个图的红色点均代表手动计算的样本统计值。&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       图1：左图：平均d’和标准（c）的（近似）联合后验密度图。颜色越浅代表更高的后验概率。右图：d’和标准（c）总体水平的标准差的（近似）联合后验密度图。两个图的红色点均代表手动计算的样本统计值。
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -2775,7 +2775,7 @@ $$
 
 &lt;figure  id=&#34;figure-图2独立模型中特有的d和标准c用实心圆环表示层级模型的估计结果由空心圆环表示层级模型估计的参数收缩到总体的平均参数红点这种收缩对于更极端的参数值来说会更大每个被试水平参数都综合权衡了该被试的数据和样本的其他被试的数据随着每个被试的数据点或者被试间的异质性增加这种收缩会下降多层模型核心表达的是这些人不同但也没有那么的不同&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/images/opentransfer/2021%e8%b4%9d%e5%8f%b6%e6%96%af2_7.jpg&#34; alt=&#34;图2：独立模型中特有的d’和标准（c）用实心圆环表示，层级模型的估计结果由空心圆环表示。层级模型估计的参数收缩到总体的平均参数（红点）。这种收缩对于更极端的参数值来说会更大：每个被试水平参数都综合权衡了该被试的数据和样本的其他被试的数据。随着每个被试的数据点或者被试间的异质性增加，这种收缩会下降。多层模型核心表达的是“这些人不同，但也没有那么的不同”。&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://opensci-cn.github.io/images/opentransfer/2021%e8%b4%9d%e5%8f%b6%e6%96%af2_7.jpg&#34; alt=&#34;图2：独立模型中特有的d’和标准（c）用实心圆环表示，层级模型的估计结果由空心圆环表示。层级模型估计的参数收缩到总体的平均参数（红点）。这种收缩对于更极端的参数值来说会更大：每个被试水平参数都综合权衡了该被试的数据和样本的其他被试的数据。随着每个被试的数据点或者被试间的异质性增加，这种收缩会下降。多层模型核心表达的是“这些人不同，但也没有那么的不同”。&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       图2：独立模型中特有的d’和标准（c）用实心圆环表示，层级模型的估计结果由空心圆环表示。层级模型估计的参数收缩到总体的平均参数（红点）。这种收缩对于更极端的参数值来说会更大：每个被试水平参数都综合权衡了该被试的数据和样本的其他被试的数据。随着每个被试的数据点或者被试间的异质性增加，这种收缩会下降。多层模型核心表达的是“这些人不同，但也没有那么的不同”。
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -2913,9 +2913,9 @@ Further event details, including page elements such as image galleries, can be a
     
     <item>
       <title>翻译 | 信号检测论的贝叶斯估计 (一)</title>
-      <link>http://localhost:1313/event/opentransfer/2020%E8%B4%9D%E5%8F%B6%E6%96%AF1/</link>
+      <link>https://opensci-cn.github.io/event/opentransfer/2020%E8%B4%9D%E5%8F%B6%E6%96%AF1/</link>
       <pubDate>Wed, 16 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/opentransfer/2020%E8%B4%9D%E5%8F%B6%E6%96%AF1/</guid>
+      <guid>https://opensci-cn.github.io/event/opentransfer/2020%E8%B4%9D%E5%8F%B6%E6%96%AF1/</guid>
       <description>&lt;p&gt;&lt;i&gt;&lt;b&gt;原标题：&lt;/b&gt;Bayesian Estimation of Signal Detection Models, Part 1&lt;br&gt;
 &lt;b&gt;原文地址：&lt;/b&gt;&lt;a href=&#34;https://vuorre.netlify.app/post/2017/10/09/bayesian-estimation-of-signal-detection-theory-models-part-1/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://vuorre.netlify.app/post/2017/10/09/bayesian-estimation-of-signal-detection-theory-models-part-1/&lt;/a&gt;&lt;br&gt;
 &lt;b&gt;原作者：&lt;/b&gt;Matti. Vuorre&lt;br&gt;
@@ -2998,7 +2998,7 @@ sdt &lt;- sdt %&gt;%
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/images/opentransfer/2020%e8%b4%9d%e5%8f%b6%e6%96%af1_2.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://opensci-cn.github.io/images/opentransfer/2020%e8%b4%9d%e5%8f%b6%e6%96%af1_2.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;br&gt;
 Φ 是累积正态密度函数(cumulative normal density function)，可将z分数转换为概率，其反函数Φ^(-1) 将概率（例如击中率或虚报率）转换为z分数。标准化后的击中率和虚报率分别表示为 zHR 和zFAR。反应标准c则由-zFAR（负虚报率的标准分数）表示(DeCarlo，1998)。&lt;br&gt;
@@ -3047,7 +3047,7 @@ round(sdt, 2)
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/images/opentransfer/2020%e8%b4%9d%e5%8f%b6%e6%96%af1_1.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://opensci-cn.github.io/images/opentransfer/2020%e8%b4%9d%e5%8f%b6%e6%96%af1_1.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 
 &lt;h3&gt;使用GLM估算EVSDT模型&lt;/h3&gt;
@@ -3072,7 +3072,7 @@ round(sdt, 2)
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/images/opentransfer/2020%e8%b4%9d%e5%8f%b6%e6%96%af1_3.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://opensci-cn.github.io/images/opentransfer/2020%e8%b4%9d%e5%8f%b6%e6%96%af1_3.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 
 &lt;p style=&#34;text-indent:32.4px&#34;&gt;由于我们希望使用线性模型（广义线性模型）对概率p进行估计，但概率p本身有上限和下限（分别为1和0），因此，我们不用线性模型直接对p进行建模。相反，我们用一个连结函数将p转化为‘线性预测值’ η，并用线性回归模型对 η建模。如果该连结函数是一个概率(probit)，那我们就得到了一个‘probit GLM’。
@@ -3096,7 +3096,7 @@ round(sdt, 2)
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/images/opentransfer/2020%e8%b4%9d%e5%8f%b6%e6%96%af1_4.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://opensci-cn.github.io/images/opentransfer/2020%e8%b4%9d%e5%8f%b6%e6%96%af1_4.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 
 &lt;p style=&#34;text-indent:32.4px&#34;&gt;如前所述，Φ是一个累积正态密度函数并能将z 值转化为概率，那我们可以用一个截距和斜率来表示η。
@@ -3120,7 +3120,7 @@ round(sdt, 2)
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/images/opentransfer/2020%e8%b4%9d%e5%8f%b6%e6%96%af1_5.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://opensci-cn.github.io/images/opentransfer/2020%e8%b4%9d%e5%8f%b6%e6%96%af1_5.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 
 &lt;p style=&#34;text-indent:32.4px&#34;&gt;在这一参数化过程中，模型的截距是标准化的虚报率（当η为0时报告1的概率），我们将其作为标准，用c表示。模型的斜率是由z分数所表示的击中率（当η为1时报告1）相对于截距（即标准化的虚报率）的提升，这是d’的另一种表达形式。因此，
@@ -3144,7 +3144,7 @@ round(sdt, 2)
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/images/opentransfer/2020%e8%b4%9d%e5%8f%b6%e6%96%af1_6.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://opensci-cn.github.io/images/opentransfer/2020%e8%b4%9d%e5%8f%b6%e6%96%af1_6.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 
 &lt;p style=&#34;text-indent:32.4px&#34;&gt;DeCarlo (1998)已详细地探讨了SDT模型与GLM的关系。从GLM框架来考虑SDT模型的两个直接好处是，可以容易得到c和d&#39;两个预测值以及可用层级模型来估计包含各种相关系数的SDT模型(DeCarlo,2010; Rouder &amp; Lu, 2005)。第二点意味着多个被试（和项目）可同时用该模型进行拟合。我们将在第二部分中讨论这一点。&lt;/p&gt;
@@ -3210,7 +3210,7 @@ round(sdt[1,], 2)
 
 &lt;figure  id=&#34;figure-图253号被试的sdt参数大概的联合后验密度淡黄色表示较高的后验密度红点表示手动计算的mle的点估计值d&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/images/opentransfer/2020%e8%b4%9d%e5%8f%b6%e6%96%af1_7.png&#34; alt=&#34;图2：53号被试的SDT参数（大概的）联合后验密度。淡黄色表示较高的后验密度，红点表示手动计算的MLE的点估计值d′。&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://opensci-cn.github.io/images/opentransfer/2020%e8%b4%9d%e5%8f%b6%e6%96%af1_7.png&#34; alt=&#34;图2：53号被试的SDT参数（大概的）联合后验密度。淡黄色表示较高的后验密度，红点表示手动计算的MLE的点估计值d′。&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       图2：53号被试的SDT参数（大概的）联合后验密度。淡黄色表示较高的后验密度，红点表示手动计算的MLE的点估计值d′。
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -3238,7 +3238,7 @@ round(sdt[1,], 2)
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/images/opentransfer/2020%e8%b4%9d%e5%8f%b6%e6%96%af1_9.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://opensci-cn.github.io/images/opentransfer/2020%e8%b4%9d%e5%8f%b6%e6%96%af1_9.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 
 &lt;p style=&#34;text-indent:32.4px&#34;&gt;该模型可以直接估算c和d&#39;。与拟合GLM相比，编写和估计非线性模型要复杂得多。因此，下面的代码会有点复杂。但重要的是，我们可以使用brms来估计非线性模型，且使用方式也不会过度偏离基本的公式语法。&lt;/p&gt;
@@ -3323,7 +3323,7 @@ summary(fit2)
 
 &lt;figure  id=&#34;figure-图3第一行的两幅图是53号被试的sdt参数的大概的联合后验密度近似值使用gl模型和非线性模型估算浅黄色表示较高的后密度红点表示手动计算的样本均值d第二行的分别是glm红色和非线性蓝色模型c和dprime的边缘后验密度这里使用evsdt的非线性参数化模型并不具有明显的优势不过在第3部分中我们将使用它来估计uvsdt模型因此通过研究这种简单的例子可以帮助大家更容易理解如何使用brms拟合真正的非线性模型&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/images/opentransfer/2020%e8%b4%9d%e5%8f%b6%e6%96%af1_8.png&#34; alt=&#34;图3：第一行的两幅图是53号被试的SDT参数的（大概的）联合后验密度（近似值），使用GL模型和非线性模型估算。浅黄色表示较高的后密度。红点表示“手动”计算的样本均值d。第二行的分别是GLM（红色）和非线性（蓝色）模型c和dprime的边缘后验密度。这里使用EVSDT的“非线性”参数化模型并不具有明显的优势。不过，在第3部分中，我们将使用它来估计UVSDT模型，因此，通过研究这种简单的例子可以帮助大家更容易理解如何使用brms拟合真正的非线性模型。&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://opensci-cn.github.io/images/opentransfer/2020%e8%b4%9d%e5%8f%b6%e6%96%af1_8.png&#34; alt=&#34;图3：第一行的两幅图是53号被试的SDT参数的（大概的）联合后验密度（近似值），使用GL模型和非线性模型估算。浅黄色表示较高的后密度。红点表示“手动”计算的样本均值d。第二行的分别是GLM（红色）和非线性（蓝色）模型c和dprime的边缘后验密度。这里使用EVSDT的“非线性”参数化模型并不具有明显的优势。不过，在第3部分中，我们将使用它来估计UVSDT模型，因此，通过研究这种简单的例子可以帮助大家更容易理解如何使用brms拟合真正的非线性模型。&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       图3：第一行的两幅图是53号被试的SDT参数的（大概的）联合后验密度（近似值），使用GL模型和非线性模型估算。浅黄色表示较高的后密度。红点表示“手动”计算的样本均值d。第二行的分别是GLM（红色）和非线性（蓝色）模型c和dprime的边缘后验密度。这里使用EVSDT的“非线性”参数化模型并不具有明显的优势。不过，在第3部分中，我们将使用它来估计UVSDT模型，因此，通过研究这种简单的例子可以帮助大家更容易理解如何使用brms拟合真正的非线性模型。
     &lt;/figcaption&gt;&lt;/figure&gt;

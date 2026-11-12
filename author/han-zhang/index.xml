@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Han Zhang | Chinese Open Science Network</title>
-    <link>http://localhost:1313/author/han-zhang/</link>
-      <atom:link href="http://localhost:1313/author/han-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://opensci-cn.github.io/author/han-zhang/</link>
+      <atom:link href="https://opensci-cn.github.io/author/han-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Han Zhang</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/author/han-zhang/avatar_hu_ecbe196ca3b40017.jpg</url>
+      <url>https://opensci-cn.github.io/author/han-zhang/avatar_hu_ecbe196ca3b40017.jpg</url>
       <title>Han Zhang</title>
-      <link>http://localhost:1313/author/han-zhang/</link>
+      <link>https://opensci-cn.github.io/author/han-zhang/</link>
     </image>
     
     <item>
       <title>Han Zhang</title>
-      <link>http://localhost:1313/author/han-zhang/</link>
+      <link>https://opensci-cn.github.io/author/han-zhang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/han-zhang/</guid>
+      <guid>https://opensci-cn.github.io/author/han-zhang/</guid>
       <description>&lt;p&gt;Dr. Zhang Han is a multidisciplinary researcher investigating how brain, cognition, and behaviour develop and adapt across the lifespan. Combining developmental theory with quantitative and computational approaches, she employs longitudinal designs, multimodality data, and advanced statistical inference and predictive modeling to understand individual development. Her work bridges fundamental science with applied insights, focusing on neurodevelopment in children and adolescents and the interplay between metabolic and mental health. She is particularly interested in identifying early-life factors that foster resilience and adaptive trajectories, with translational potential to promote lifelong cognitive, behavioural, and physiological well-being.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt; Motto : &lt;/b&gt; Life is short, make every moment a delicious one.&lt;/p&gt;
 </description>

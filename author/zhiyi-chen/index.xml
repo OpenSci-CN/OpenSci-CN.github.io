@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zhiyi Chen | Chinese Open Science Network</title>
-    <link>http://localhost:1313/author/zhiyi-chen/</link>
-      <atom:link href="http://localhost:1313/author/zhiyi-chen/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://opensci-cn.github.io/author/zhiyi-chen/</link>
+      <atom:link href="https://opensci-cn.github.io/author/zhiyi-chen/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhiyi Chen</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/author/zhiyi-chen/avatar_hu_585402f84b5f674e.jpg</url>
+      <url>https://opensci-cn.github.io/author/zhiyi-chen/avatar_hu_585402f84b5f674e.jpg</url>
       <title>Zhiyi Chen</title>
-      <link>http://localhost:1313/author/zhiyi-chen/</link>
+      <link>https://opensci-cn.github.io/author/zhiyi-chen/</link>
     </image>
     
     <item>
       <title>Zhiyi Chen</title>
-      <link>http://localhost:1313/author/zhiyi-chen/</link>
+      <link>https://opensci-cn.github.io/author/zhiyi-chen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/zhiyi-chen/</guid>
+      <guid>https://opensci-cn.github.io/author/zhiyi-chen/</guid>
       <description>&lt;p&gt;Dr. Zhiyi Chen is currently appointed to a professorship in psychology at School of Psychology, Third Military Medical University (PLA, China). He is also designated as the Director and PI for Experimental Research Center for Medical and Psychological Sciences (ERC-MPS). He obtains PhD in Southwest University at 2022, as supervised by Tingyong Feng. Dr Chen possess huge research enthusiasm and expertise in computational neuroimaging modeling (e.g., RSA, neural connectome, neuroimaging-transcriptomic model, machine learning), artificial intelligence and human procrastination decisions. Dr. Chen tremendously welcome collaborations and research interests on open science and metaresearch, particularly in sampling inequalities, computational reproducibility and questionable research conducts(QRC).&lt;/p&gt;
 </description>
     </item>
